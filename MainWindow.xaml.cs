@@ -27,7 +27,7 @@ namespace WpfApp_test01
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("this is a button");
+            MessageBox.Show("this is a ugly button");
         }
     }
 }
